@@ -49,7 +49,7 @@ export const LoginPage = () => {
             <Trophy className="w-6 h-6 text-yellow-950 fill-yellow-950" />
           </div>
           <div>
-            <h1 className="text-2xl font-black text-white">Prodigy</h1>
+            <h1 className="text-2xl font-black text-white">QuestForge</h1>
             <span className="text-[10px] text-[#9d93c4] block font-medium -mt-1">
               Plan • Focus • Level Up
             </span>

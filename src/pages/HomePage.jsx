@@ -75,7 +75,7 @@ export const HomePage = () => {
           </div>
           <div>
             <span className="text-2xl font-extrabold tracking-tight text-white group-hover:text-purple-300 transition-colors">
-              Prodigy
+              QuestForge
             </span>
             <span className="text-[10px] text-[#9d93c4] block font-medium -mt-1">
               Plan • Focus • Level Up
@@ -114,7 +114,7 @@ export const HomePage = () => {
         </h1>
 
         <p className="max-w-2xl mx-auto text-base sm:text-lg text-[#a99fc9] mt-6 leading-relaxed">
-          PRODIGY turns everyday assignments and to-dos into an immersive RPG quest. Earn XP, maintain daily streaks, unlock rare titles, and compete on the leaderboard.
+          QUESTFORGE turns everyday assignments and to-dos into an immersive RPG quest. Earn XP, maintain daily streaks, unlock rare titles, and compete on the leaderboard.
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-4 mt-8">
@@ -189,7 +189,7 @@ export const HomePage = () => {
       {/* How it Works in 3 Steps */}
       <section className="max-w-5xl mx-auto px-6 py-12 text-center">
         <h2 className="text-2xl sm:text-3xl font-black text-white mb-8">
-          How PRODIGY Works in 3 Steps
+          How QUESTFORGE Works in 3 Steps
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
           <div className="p-6 rounded-3xl bg-[#161033] border border-[#2c2057]">
@@ -229,14 +229,14 @@ export const HomePage = () => {
             onClick={() => navigate('dashboard')}
             className="mt-6 px-8 py-3 rounded-full bg-white text-purple-950 font-black text-sm shadow-xl hover:bg-purple-100 transition-all transform hover:scale-105"
           >
-            Launch PRODIGY Dashboard
+            Launch QUESTFORGE Dashboard
           </button>
         </div>
       </section>
 
       {/* Footer */}
       <footer className="border-t border-[#1f173f] py-8 text-center text-xs text-[#7c7499]">
-        <p>© 2026 PRODIGY – Gamified Productivity and Task Management System.</p>
+        <p>© 2026 QUESTFORGE – Gamified Productivity and Task Management System.</p>
         <p className="mt-1">Prepared in IEEE 830 / 29148 style for BCA Final Year Project.</p>
       </footer>
     </div>

@@ -1,4 +1,4 @@
-# PRODIGY – Gamified Productivity and Task Management System
+# QUESTFORGE – Gamified Productivity and Task Management System
 
 > Prepared in **IEEE 830 / ISO/IEC/IEEE 29148 style** for BCA Final Year Project.  
 > Inspired by the dark purple cyberpunk/RPG UI dashboard mockup.
@@ -7,7 +7,7 @@
 
 ## 🌟 Overview & Highlights
 
-**PRODIGY** transforms everyday academic tasks and to-dos into an immersive role-playing game (RPG). Users earn experience points (**XP**), level up, maintain daily habit streaks, unlock prestigious cosmetic badges, and compete on cohort leaderboards.
+**QUESTFORGE** transforms everyday academic tasks and to-dos into an immersive role-playing game (RPG). Users earn experience points (**XP**), level up, maintain daily habit streaks, unlock prestigious cosmetic badges, and compete on cohort leaderboards.
 
 The application has been built as a high-performance Single-Page Application (SPA) using **React 18**, **Tailwind CSS**, and **Chart.js**, reproducing the exact visual hierarchy, colors, glows, cards, and gamification mechanics of the provided UI mockup.
 

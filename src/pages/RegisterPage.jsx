@@ -105,7 +105,7 @@ export const RegisterPage = () => {
             <Trophy className="w-6 h-6 text-yellow-950 fill-yellow-950" />
           </div>
           <div>
-            <h1 className="text-2xl font-black text-white">Prodigy</h1>
+            <h1 className="text-2xl font-black text-white">QuestForge</h1>
             <span className="text-[10px] text-[#9d93c4] block font-medium -mt-1">
               Plan • Focus • Level Up
             </span>
@@ -165,7 +165,7 @@ export const RegisterPage = () => {
             <div className="relative">
               <input
                 type="email"
-                placeholder="kirthick@prodigy.dev"
+                placeholder="kirthick@questforge.dev"
                 value={formData.email}
                 onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                 className="w-full bg-[#100c28] border border-[#2f235b] focus:border-purple-500 rounded-xl px-4 py-2.5 text-sm text-white focus:outline-none"

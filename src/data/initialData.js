@@ -1,10 +1,10 @@
-// Initial Mock Data precisely matching the provided PRODIGY Dashboard UI mockup and SRS v1.0
+// Initial Mock Data precisely matching the provided QUESTFORGE Dashboard UI mockup and SRS v1.0
 
 export const initialUser = {
   id: 'usr_001',
   fullName: 'Kirthick',
   username: 'kirthick',
-  email: 'kirthick@prodigy.dev',
+  email: 'kirthick@questforge.dev',
   bio: 'BCA Final Year Student | Passionate Coder & Gamified Task Crusher 🚀',
   role: 'Student Developer',
   college: 'BCA Final Year',

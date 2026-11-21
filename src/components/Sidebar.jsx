@@ -39,7 +39,7 @@ export const Sidebar = () => {
             </div>
             <div>
               <h1 className="text-2xl font-extrabold tracking-tight text-white group-hover:text-purple-300 transition-colors">
-                Prodigy
+                QuestForge
               </h1>
             </div>
           </div>

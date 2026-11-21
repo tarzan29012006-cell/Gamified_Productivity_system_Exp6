@@ -345,7 +345,7 @@ export const GamificationProvider = ({ children }) => {
     setRewards(initialRewards);
     setLeaderboard(initialLeaderboard);
     setNotifications(initialNotifications);
-    showToast('Reset to PRODIGY Mockup initial state!');
+    showToast('Reset to QuestForge Mockup initial state!');
   };
 
   return (
